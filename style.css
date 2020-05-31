@@ -88,7 +88,7 @@ section#left-column {
   float: left;
 }
 
-section#right-column > img {
+img {
   width: 100%;
 }
 
